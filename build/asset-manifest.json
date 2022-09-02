@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FreelanceSite.ReactJS/static/css/main.46f54d48.css",
+    "main.js": "/FreelanceSite.ReactJS/static/js/main.fa40e4aa.js",
+    "static/media/img2.png": "/FreelanceSite.ReactJS/static/media/img2.f5b91161efe8875feb5c.png",
+    "static/media/img1.png": "/FreelanceSite.ReactJS/static/media/img1.0576ce1d0c6571b4d4ce.png",
+    "index.html": "/FreelanceSite.ReactJS/index.html",
+    "main.46f54d48.css.map": "/FreelanceSite.ReactJS/static/css/main.46f54d48.css.map",
+    "main.fa40e4aa.js.map": "/FreelanceSite.ReactJS/static/js/main.fa40e4aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46f54d48.css",
+    "static/js/main.fa40e4aa.js"
+  ]
+}
