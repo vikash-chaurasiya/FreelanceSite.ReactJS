@@ -1,4 +1,4 @@
-import web from '../src/images/img1.png'
+import web from './images/img1.png'
 
 const Sdata = [
     {
